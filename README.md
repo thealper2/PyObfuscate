@@ -2,11 +2,11 @@
 
 **PyObfuscate** is a Python code obfuscation tool designed to make your Python source code harder to reverse-engineer. It renames variables, functions, and classes to random names, and optionally removes docstrings and compacts the code into fewer lines. This tool is ideal for protecting intellectual property or making your codebase less readable to unauthorized users.
 
-1. [Features]()
-2. [Installation]()
-3. [Usage]()
-4. [Contributing]()
-5. [License]()
+1. [Features](https://github.com/thealper2/PyObfuscate/blob/main/README.md#dart-features)
+2. [Installation](https://github.com/thealper2/PyObfuscate/blob/main/README.md#hammer_and_wrench-installation)
+3. [Usage](https://github.com/thealper2/PyObfuscate/blob/main/README.md#joystick-usage)
+4. [Contributing](https://github.com/thealper2/PyObfuscate/blob/main/README.md#handshake-contributing)
+5. [License](https://github.com/thealper2/PyObfuscate/blob/main/README.md#scroll-license)
 
 --- 
 
